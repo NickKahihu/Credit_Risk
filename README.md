@@ -37,4 +37,5 @@ Scipy.stats
 
 Xverse (For WOE and Information_Value)
 
-A static webpage of my entire work can be seen [here]()
+
+A **static webpage** of my entire work can be seen [here](https://nbviewer.jupyter.org/github/NickKahihu/Credit_Risk/blob/master/credit_risk_model.ipynb)
