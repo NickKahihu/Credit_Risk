@@ -7,6 +7,9 @@ From the **Lenders Club homepage** on Kaggle which can be viewed in its entirety
 
 ## Goal:
  Use  machine learning to create a model that predicts whether individuals will default on loans or not.
+ 
+ A **static webpage** of my entire work can be seen [here](https://nbviewer.jupyter.org/github/NickKahihu/Credit_Risk/blob/master/credit_risk_model.ipynb)
+
 
 ## Main Steps Taken:
 Loading data
@@ -38,4 +41,3 @@ Scipy.stats
 Xverse (For WOE and Information_Value)
 
 
-A **static webpage** of my entire work can be seen [here](https://nbviewer.jupyter.org/github/NickKahihu/Credit_Risk/blob/master/credit_risk_model.ipynb)
